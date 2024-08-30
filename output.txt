@@ -1,0 +1,3 @@
+===> Below numbers will be added from another file <======
+sum = 5 + 5 + 5 = 15
+sum = 3 + 4 + 5 = 12
